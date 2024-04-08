@@ -1,0 +1,7 @@
+{
+    "cmake.additionalKits": [
+        "cmake"
+    ],
+    "cmake.allowCommentsInPresetsFile": true,
+    "cmake.allowUnsupportedPresetsVersions": true
+}
